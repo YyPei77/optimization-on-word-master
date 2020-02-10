@@ -1,0 +1,200 @@
+Test word: spuqmrxnyvotlwz
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: wnoqzxyurmlpsvt
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: wrnupvltozxsmqy
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: nwqzotsrxypmvlu
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: nlpymquvrtzsxow
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: uzomtvspqylnrxw
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: utsylmxrwqnopvz
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: tsoyxwqrmzuvnpl
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: suvzmowrpnlxytq
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: mtwnxqsrluzopvy
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
+Test word: aaaaaaaaaa
+Max score: 20
+Combination:
+aa
+aa
+aa
+aa
+aa
+
+Test word: dabdabdab
+Max score: 54
+Combination:
+bad
+bad
+bad
+
+Test word: hjafeckgdi
+Max score: 200
+Combination:
+hijacked
+
+Test word: kbjigcdfhe
+Max score: 88
+Combination:
+feck
+jib
+
+Test word: gabfkijchd
+Max score: 132
+Combination:
+hijack
+
+Test word: jdibkeacgh
+Max score: 200
+Combination:
+hijacked
+
+Test word: kifaechbjd
+Max score: 200
+Combination:
+hijacked
+
+Test word: beaihckjdg
+Max score: 200
+Combination:
+hijacked
+
+Test word: abcdefghijk
+Max score: 200
+Combination:
+hijacked
+
+Test word: abcdefghijklmn
+Max score: 206
+Combination:
+hm
+fjeld
+backing
+
+Test word: nbcdefghijklma
+Max score: 206
+Combination:
+hm
+fjeld
+backing
+
+Test word: abcdeabcdea
+Max score: 123
+Combination:
+acceded
+abba
+
+Test word: abcdeabcdeaabcdeabcdeaabcdeabcdea
+Max score: 383
+Combination:
+dabbed
+dabbed
+acceded
+aa
+baccae
+baccae
+
+Test word: ziggurat
+Max score: 202
+Combination:
+ziggurat
+
+Test word: zigguratziggurat
+Max score: 304
+Combination:
+ziggurat
+ziggurat
+
+Test word: gigrgaagutuarutgggtiztgizazriurz
+Max score: 608
+Combination:
+ziggurat
+ziggurat
+ziggurat
+ziggurat
+
+Test word: gigrgaagutuarutgggtiztgiza
+Max score: 358
+Combination:
+ziggurat
+ziggurat
+giga
+gutta
+
+Test word: gigrgaagutuarutgggtiztgiza
+Max score: 358
+Combination:
+ziggurat
+ziggurat
+giga
+gutta
+
+Test word: abcdefghijklmno
+Max score: 259
+Combination:
+flicked
+mahjong
+
+Test word: lmnopqrstuvwxyz
+Max score: 171
+Combination:
+vrows
+putz
+lynx
+
